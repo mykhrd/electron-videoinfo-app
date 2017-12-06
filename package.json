@@ -4,7 +4,7 @@
   "description": "A sample electron app to get length information from a video",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "electron": "electron ."
   },
   "repository": {
     "type": "git",
