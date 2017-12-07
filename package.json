@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mykhrd/videoinfo#readme",
   "dependencies": {
-    "electron": "^1.7.9",
+    "electron": "1.6.6",
     "fluent-ffmpeg": "^2.1.2"
   }
 }
